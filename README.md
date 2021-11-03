@@ -1,6 +1,7 @@
 # Rules of the Memory Game
 
 Click 2 cards at a time. If the 2 cards chosen match it will remain seen till you match all cards. If the 2 cards chosen does not match then they will be flipped back over. Match all cards and you win.
+View on heroku: https://ancient-sands-62481.herokuapp.com
 
 # Getting Started with Create React App
 
