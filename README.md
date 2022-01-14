@@ -1,81 +1,38 @@
-# Rules of the Memory Game
-
-Click 2 cards at a time. If the 2 cards chosen match it will remain seen till you match all cards. If the 2 cards chosen does not match then they will be flipped back over. Match all cards and you win.
+# A Memory Game created with React
 View on heroku: https://ancient-sands-62481.herokuapp.com
 
-# Getting Started with Create React App
+<!--Table of Contents-->
+<details open= "open">
+                <summary>Table of Contents</summary>
+                  <ul>
+                    <li><a href= "#usage">Usage</a></li>
+                    <li><a href= "#installation">Installation</a></li>
+                    <li><a href= "#credits">Credits</a></li>
+                  </ul>
+</details>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Usage
+Click 2 cards at a time. If the 2 cards chosen match it will remain seen till you match all cards. If the 2 cards chosen does not match then they will be flipped back over. Match all cards and you win.
 
-# Run the App
+-login with your player name:
+![Capturegame](https://user-images.githubusercontent.com/90770698/149545022-1046a4c3-9dfd-4dd7-ad3c-e439686ffe29.JPG)
+-view homepage:
+![Capturegame1](https://user-images.githubusercontent.com/90770698/149545112-3b4158fe-8f95-4f9a-8bce-817bd954b988.JPG)
+-begin playing:
+![Capturegame2](https://user-images.githubusercontent.com/90770698/149545198-1668444b-a4fc-49ce-a772-4efe0dd3fc7d.JPG)
+
+## Installation
 
 clone the repo
 
 The browser should then be opened automatically (http://localhost:300). If not, open http://localhost:300 in your browser.
 
-## Available Scripts
+Or in the project directory, you can run:
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ `npm install`
+ 
+  `npm start`
+  
+## Credits
+-created following completetion of my full stack web development bootcamp course at Hyperiondev Software Institute
+-by Ashleigh Williams
